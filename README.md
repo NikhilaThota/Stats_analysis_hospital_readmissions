@@ -1,0 +1,1 @@
+The data describes elements like Number of Discharges, Number of Readmissions, Predicted Readmission Rate, Expected Readmission Rate. In depth analysis shows that there is a negative relationship between Number of Discharges and Excess rate of Readmissions. Statistical significance of analysis is determined by calculating p-value, correlation coefficient and regression plot.
